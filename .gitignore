@@ -1,2 +1,7 @@
 .next
 node_modules
+.bsp/
+.metals/
+.vscode/
+target/
+project/
